@@ -35,7 +35,7 @@ export default function AuthPage() {
       </div>
 
       <div className="relative z-10 flex justify-center pt-12">
-        <Image src="/streak-fit-logo.png" alt="FIT.AI" width={85} height={38} />
+        <Image src="/streak-fit-logo.png" alt="Streak-FiT" width={85} height={38} />
       </div>
 
       <div className="flex-1" />
