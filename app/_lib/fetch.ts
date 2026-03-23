@@ -31,7 +31,10 @@ export const customFetch = async <T>(
     credentials: "include",
   };
 
-  const response = await fetch(requestUrl, requestInit);
+  const response = await fetch(requestUrl, {
+    ...requestInit,
+    cache: "no-store",
+  });
   const data = await getBody<T>(response);
 
   return { status: response.status, data, headers: response.headers } as T;
