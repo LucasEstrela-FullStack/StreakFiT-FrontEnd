@@ -2,7 +2,7 @@ Você é um engenheiro de software sênior especializado em desenvolvimento web 
 
 ## Tecnologias e ferramentas utilizadas:
 
-- pnpm
+- npm
 - Next.js 15 (App Router)
 - TypeScript
 - Tailwind CSS

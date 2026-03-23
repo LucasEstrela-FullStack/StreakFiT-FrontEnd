@@ -9,9 +9,9 @@ Streak-FiT — a fitness training web app built with Next.js 15 (App Router). Th
 ## Commands
 
 ```bash
-pnpm dev          # Start dev server (do NOT run this to verify changes)
-pnpm build        # Production build
-pnpm lint         # Run ESLint
+npm run dev          # Start dev server (do NOT run this to verify changes)
+npm run build        # Production build
+npm run lint         # Run ESLint
 npx orval         # Regenerate API client from backend OpenAPI spec
 npx shadcn@latest add <component>  # Install a shadcn/ui component
 ```
@@ -65,10 +65,10 @@ NEXT_PUBLIC_BASE_URL=http://localhost:3000  # Frontend URL
 
 ## Key Conventions
 
-- Package manager: **pnpm**
+- Package manager: **npm**
 - Date library: **dayjs** (never use native Date formatting)
 - No comments in code
 - kebab-case for file and folder names
-- Never run `pnpm run dev` to verify changes
+- Never run `npm run dev` to verify changes
 - Never use middleware for auth
 - Use `Image` from `next/image` for all images
