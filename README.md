@@ -1,3 +1,9 @@
+<img width="327" height="607" alt="image" src="https://github.com/user-attachments/assets/b4a072df-0442-4a15-8300-d1613ae19178" />
+
+<img width="297" height="585" alt="image" src="https://github.com/user-attachments/assets/0009f248-2631-4595-8b16-a55b3b134a82" />
+
+<img width="351" height="604" alt="image" src="https://github.com/user-attachments/assets/d936875c-2034-4893-877f-390f4dd2a4b8" />
+
 # StreakFit Frontend 🎨💪
 
 Frontend do **StreakFit**, uma aplicação moderna de gestão de treinos com suporte a Personal Trainer via IA. Construído com as tecnologias web mais recentes de 2026.
